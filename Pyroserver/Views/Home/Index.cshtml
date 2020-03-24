@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Strona główna";
+}
+
+<nav class="navbar sticky-top .navbar-expand navbar-light">
+        
+            <div class="navbar-nav">
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn btn-secondary active" onclick="getDescribed();">
+                    <input type="radio" name="options" id="option1" value="described" autocomplete="off" checked> Gotowe pomiary
+                </label>
+                    <label class="btn btn-secondary" onclick="getUndescribed();">
+                    <input type="radio" name="options" id="option2" value="undescribed" autocomplete="off"> Odczyty
+                </label>
+                </div>
+            </div>
+    </nav>
+    <div id="content" class="container p-1">
+    </div>
+    <div class="modal fade" id="staticBackdrop" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Uzupełnij opis</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <h5>Pomiar #<span id='id'></span></h5>
+                    <p class='card-text'>
+                        Identyfikator pirometru: <span id ="pyrometerId"></span><br>
+                        Materiał: <span id ="materialName"></span><br>
+                        Emisyjność materiału: <span id ="materialEmissivity"></span><br>
+                        Temperatura obiektu: <span id ="objectTemperature"></span><br>
+                        Temperatura otoczenia: <span id ="ambientTemperature"></span><br>
+                        Pomiar wykonano: <span id ="measurementDate"></span>
+                    </p>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                        <span class="input-group-text" id="basic-addon1">Opis pomiaru</span>
+                        </div>
+                        <input id="description" type="text" class="form-control" placeholder="Np. pomiar temperatury pacjenta XYZ" aria-label="Description" aria-describedby="basic-addon1">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Anuluj</button>
+                    <button type="button" class="btn btn-dark" onclick = "setDescription()">Zapisz</button>
+                </div>
+            </div>
+        </div>
+    </div>

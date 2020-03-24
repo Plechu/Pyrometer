@@ -1,0 +1,19 @@
+patrząc na wyświetlacz majac piny po lewej liczone od góry na dół
+1 - VCC
+2 - D8/GPIO 15 Chip Select
+3 - D6/ GPIO 12 Data Command
+4 - D0/ GPIO 16 RST
+5 - D7/ GPIO 13 HMOSI
+6 - D5/ GPIO 14 HSCLK
+7 - VCC
+8 - GND
+
+Przyciski
+Lewy - D3/ GPIO 0
+Prawy - D4/ GPIO 2
+Pomiar - SD3/ GPIO 10
+Drugie wyprowadzenie przycisków - GND
+
+GY 906
+SCL - D1/ GPIO 5
+SDA - D2/ GPIO 4

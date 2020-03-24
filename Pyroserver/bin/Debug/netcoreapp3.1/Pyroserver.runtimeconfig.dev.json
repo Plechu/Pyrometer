@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Plechu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Plechu\\.nuget\\packages"
+    ]
+  }
+}

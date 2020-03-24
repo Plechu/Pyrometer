@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        function fetchSSIDs() {
+            var xhttp = new XMLHttpRequest();
+            var opt;
+            var select = document.getElementById("SSIDs");
+
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    var input = JSON.parse(this.responseText);
+
+                    for (var i = 0; i < input.length; ++i) {
+                        opt = document.createElement('option');
+                        opt.appendChild(document.createTextNode(input[i]));
+                        opt.value = input[i];
+                        select.appendChild(opt);
+                    }
+                    opt = document.createElement('option');
+                    opt.appendChild(document.createTextNode('Brak'));
+                    opt.value = 'nowifi4me';
+                    select.appendChild(opt);
+                }
+            };
+            xhttp.open("GET", "fetchssids", true);
+            xhttp.send();
+        }
+
+        function sendConfiguration() {
+            if (document.getElementById("SSIDs").value != 'nowifi4me' && document.getElementById("PyroID").value == '') {
+                document.getElementById("PyroID").style.borderColor = "red";
+                document.getElementById("alert").style.display = 'block';
+                return;
+            }
+
+            var obj = {};
+            obj["SSID"] = document.getElementById("SSIDs").value;
+            obj["Pass"] = document.getElementById("Pass").value;
+            obj["PyroID"] = document.getElementById("PyroID").value;
+            var output = JSON.stringify(obj);
+            var xhttp = new XMLHttpRequest();
+            xhttp.open("POST", "/saveconfiguration", true);
+            xhttp.setRequestHeader("Content-type", "application/json");
+            xhttp.send(output);
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("container").innerHTML = '<h1>Zapisano konfiguracje</h1>';
+                }
+            }
+        }
+
+        function rebuildForm() {
+            if (document.getElementById("SSIDs").value == 'nowifi4me') {
+                document.getElementById("PyroID").required = false;
+                document.getElementById("PyroID").value = '';
+                document.getElementById("Pass").value = '';
+                document.getElementById("magik").style.display = "none";
+            }
+            else {
+                document.getElementById("PyroID").required = true;
+                document.getElementById("PyroID").value = '';
+                document.getElementById("Pass").value = '';
+                document.getElementById("magik").style.display = "block";
+            }
+        }
+
+        function recolor() {
+            document.getElementById("PyroID").style.borderColor = "#ccc";
+            document.getElementById("alert").style.display = 'none';
+        }
+    </script>
+    <style>
+        html {
+            width: 100vw;
+            height: 100vh;
+            font-family: "Arial", Helvetica, sans-serif;
+        }
+
+        body {
+            height: 90%;
+            width: 90%;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #wrap {
+            min-width: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            padding: 0px 30px 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            transition: height 0.5s ease;
+        }
+
+        h2,
+        h1 {
+            width: 100%;
+            text-align: center;
+        }
+
+        input,
+        select {
+            width: 100%;
+        }
+
+        button {
+            margin: auto;
+            display: block;
+        }
+
+        input[type=password],
+        select {
+            width: 100%;
+            padding: 6px 20px;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=number],
+        select {
+            width: 100%;
+            padding: 6px 20px;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        input[type=button] {
+            width: 100%;
+            background-color: #4CAF50;
+            color: white;
+            padding: 8px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        input[type=button]:hover {
+            background-color: #45a049;
+        }
+
+        #alert {
+            display: none;
+            color: red;
+            font-weight: bold;
+            font-size: small;
+        }
+    </style>
+</head>
+
+<body onload="fetchSSIDs()">
+    <div id="wrap">
+        <div id="container">
+            <h2>Konfiguracja</h2>
+            <label for="SSIDs">Sieć:</label><br>
+            <select id="SSIDs" onchange="rebuildForm()"></select><br><br>
+            <div id="magik">
+                <label for="Pass">Hasło:</label><br>
+                <input type="password" id="Pass"><br><br>
+                <label for="PyroID">PirometrID:</label><br>
+                <input onchange="recolor()" type="number" min="1" id="PyroID"><br>
+                <span id="alert"><b>To pole jest wymagane!</b></span><br>
+            </div>
+            <input type="button" onclick="sendConfiguration()" value="Zapisz konfigurację">
+        </div>
+    </div>
+
+</body>
+
+</html>

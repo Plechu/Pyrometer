@@ -1,0 +1,294 @@
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.exe
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.deps.json
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.runtimeconfig.json
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.runtimeconfig.dev.json
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.pdb
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.Views.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.Views.pdb
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.csprojAssemblyReference.cache
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorAssemblyInfo.cache
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorAssemblyInfo.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.AssemblyInfoInputs.cache
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.AssemblyInfo.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.TagHelpers.input.cache
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.TagHelpers.output.cache
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorCoreGenerate.cache
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorTargetAssemblyInfo.cache
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorTargetAssemblyInfo.cs
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.Views.pdb
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\staticwebassets\Pyroserver.StaticWebAssets.Manifest.cache
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\staticwebassets\Pyroserver.StaticWebAssets.xml
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.pdb
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.csproj.CopyComplete
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\ESP8266\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.exe
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.deps.json
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.runtimeconfig.json
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.runtimeconfig.dev.json
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.pdb
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.Views.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.Views.pdb
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.csprojAssemblyReference.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.csproj.CoreCompileInputs.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.MvcApplicationPartsAssemblyInfo.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorAssemblyInfo.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorAssemblyInfo.cs
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.AssemblyInfoInputs.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.AssemblyInfo.cs
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.TagHelpers.input.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.TagHelpers.output.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorCoreGenerate.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorTargetAssemblyInfo.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorTargetAssemblyInfo.cs
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.Views.pdb
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.csproj.CopyComplete
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\staticwebassets\Pyroserver.StaticWebAssets.Manifest.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\staticwebassets\Pyroserver.StaticWebAssets.xml
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.dll
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.pdb
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.genruntimeconfig.cache
+D:\SAVE SPACE\uczelnia\Projekt tele\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.exe
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.deps.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.runtimeconfig.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.runtimeconfig.dev.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.pdb
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.Views.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.Views.pdb
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.csprojAssemblyReference.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorAssemblyInfo.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorAssemblyInfo.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.AssemblyInfoInputs.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.AssemblyInfo.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.TagHelpers.input.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.TagHelpers.output.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorCoreGenerate.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorTargetAssemblyInfo.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorTargetAssemblyInfo.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.Views.pdb
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.csproj.CopyComplete
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\staticwebassets\Pyroserver.StaticWebAssets.Manifest.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\staticwebassets\Pyroserver.StaticWebAssets.xml
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.pdb
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.exe
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.deps.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.runtimeconfig.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.runtimeconfig.dev.json
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.pdb
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.Views.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Pyroserver.Views.pdb
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.csprojAssemblyReference.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorAssemblyInfo.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorAssemblyInfo.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.AssemblyInfoInputs.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.AssemblyInfo.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.TagHelpers.input.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.TagHelpers.output.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorCoreGenerate.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorTargetAssemblyInfo.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.RazorTargetAssemblyInfo.cs
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.Views.pdb
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.csproj.CopyComplete
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\staticwebassets\Pyroserver.StaticWebAssets.Manifest.cache
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\staticwebassets\Pyroserver.StaticWebAssets.xml
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.dll
+C:\Users\Plechu\Documents\studia\Telemedycyna\projekt\Pyroserver\obj\Debug\netcoreapp3.1\Pyroserver.pdb

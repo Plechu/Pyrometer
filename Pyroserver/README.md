@@ -1,0 +1,1 @@
+dotnet run --urls "http://*:80" <- tym uruchomic server
