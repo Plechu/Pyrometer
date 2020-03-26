@@ -325,3 +325,4 @@ void loop() {
       hideInfo = false;
     }
   }
+}
